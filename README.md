@@ -1,5 +1,7 @@
 # qb-shops
 Shops For QB-Core
+
+Discord : https://discord.gg/ezGs7RY6bt
  
 # Notice
 
